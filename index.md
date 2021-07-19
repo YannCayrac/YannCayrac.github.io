@@ -11,6 +11,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [Business Search app with Yelps API]() 
 
 Looking for good sushi near you? need to find a garage? I got you covered. 
-Application in React.js and Node.js using Yelps API. 
+Application in **React.js** and **Node.js** using Yelps API. 
 
 
